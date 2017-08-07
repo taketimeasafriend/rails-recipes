@@ -19,8 +19,9 @@
 # To learn more, please read the Rails Internationalization guide
 # available at http://guides.rubyonrails.org/i18n.html.
 
-en:
-  hello: "Hi %{name},"
-  event_list: Event List
-  admin:
-    event_list: Admin Event List
+   zh-CN:
+     activerecord:
+       attributes:
+         event:
+           name: "活动名称"
+           description: "描述"
