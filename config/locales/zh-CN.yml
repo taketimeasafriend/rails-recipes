@@ -19,7 +19,7 @@
 # To learn more, please read the Rails Internationalization guide
 # available at http://guides.rubyonrails.org/i18n.html.
 
-en:
-  event_list: Event List
+"zh-CN":
+  event_list: 活动列表
   admin:
-    event_list: Admin Event List
+    event_list: 活动列表管理
