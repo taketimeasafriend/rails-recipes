@@ -41,6 +41,7 @@ gem 'rails-i18n'
 gem 'devise-i18n'
 gem 'select2-rails'
 gem 'mysql2'
+gem 'nested_form_fields'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
