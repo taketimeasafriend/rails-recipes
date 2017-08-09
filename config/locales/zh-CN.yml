@@ -20,6 +20,8 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 "zh-CN":
+  bulk_update: 批次编辑
+  bulk_delete: 批次删除
   hello: "亲～ %{name} 你好："
 
   event_list: 活动列表
